@@ -17,7 +17,7 @@ module.exports = {
     description: `A unity software engineer`,
     siteUrl: `https://github.com/LazyMuzi/sanghoon.github.io.git`,
     social: {
-      linkedin: `https://www.linkedin.com/in/sang-hoon-kim-a4397428a/` ,
+      linkedin: `sang-hoon-kim-a4397428a/` ,
     },
   },
   plugins: [
