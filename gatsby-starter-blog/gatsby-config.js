@@ -11,13 +11,13 @@ module.exports = {
   siteMetadata: {
     title: `Gatsby Starter Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Sanghoon Kim`,
+      summary: `A unity software engineer`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A unity software engineer`,
+    siteUrl: `https://github.com/LazyMuzi/sanghoon.github.io.git`,
     social: {
-      twitter: `kylemathews`,
+      linkedin: `https://www.linkedin.com/in/sang-hoon-kim-a4397428a/` ,
     },
   },
   plugins: [
